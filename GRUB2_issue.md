@@ -65,3 +65,5 @@ If the GRUB2 file of an EC2 instance gets deleted or becomes corrupted, it can p
 ## Conclusion
 
 Recovering a deleted or corrupted GRUB2 file on an EC2 instance can be achieved by launching a recovery instance, copying the GRUB2 file, creating a snapshot, and attaching the recovered volume back to the original instance. Following these steps should help resolve boot-related issues caused by GRUB2 file problems. Always exercise caution and ensure you have backups before performing such recovery operations.
+                           ***THE END***
+                           
